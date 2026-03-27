@@ -73,7 +73,7 @@ Hi, I'm <b>Nathaniel</b> from Brazil 🇧🇷<br><br>
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/cobra.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
