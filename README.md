@@ -58,13 +58,6 @@ Hi, I'm <b>Nathaniel</b> from Brazil 🇧🇷<br><br>
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-0088&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-0088&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Nathan-0088&theme=tokyonight" height="200"/>
 </div>
 
