@@ -33,7 +33,7 @@
 <p align="left">
 Hi, I'm <b>Nathaniel</b> from Brazil 🇧🇷<br><br>
 - 🔭 Currently working as: <b>Intern</b><br>
-- 📚 Currently learning: <b>Python</b><br>
+- 📚 Currently learning: <b>React</b><br>
 - ⚡ In my free time: <b>I like coding and learning new things</b><br>
 </p>
 
@@ -47,8 +47,11 @@ Hi, I'm <b>Nathaniel</b> from Brazil 🇧🇷<br><br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img width="12" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
