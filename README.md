@@ -31,7 +31,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Hi, I'm <b>Nathaniel</b> from Brazil 🇧🇷<br><br>
+Hi, I'm <b>Nathaniel</b> Junior Front-end Developer<br><br>
 - 🔭 Currently working as: <b>Intern</b><br>
 - 📚 Currently learning: <b>React</b><br>
 - ⚡ In my free time: <b>I like coding and learning new things</b><br>
