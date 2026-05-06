@@ -31,8 +31,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Hi, I'm <b>Nathaniel</b> Junior Front-end Developer<br><br>
-- 🔭 Currently working as: <b>Intern</b><br>
+Hi, I'm <b>Nathaniel</b> Junior Full Stack Developer<br><br>
+- 🔭 Currently working as: <b>Junior</b><br>
 - 📚 Currently learning: <b>React</b><br>
 - ⚡ In my free time: <b>I like coding and learning new things</b><br>
 </p>
@@ -69,7 +69,7 @@ Hi, I'm <b>Nathaniel</b> Junior Front-end Developer<br><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nathan-0088&theme=tokyonight" height="200"/>
-</div>
+</div> 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg" alt="Snake animation" />
