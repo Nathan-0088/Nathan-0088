@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-<a href="https://www.linkedin.com/in/nathaniel-alves-ribeiro-06bba0340">
+<a href="https://www.linkedin.com/in/Nathan0088">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
