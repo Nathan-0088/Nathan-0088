@@ -1,98 +1,119 @@
 <div align="center">
-  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5aTFwZTljM2w5cnNlZnk3cjMyOGVscnBlcGN0YTJ6MDhzeWN4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" />
-</div>
 
-<br/>
+<img height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5aTFwZTljM2w5cnNlZnk3cjMyOGVscnBlcGN0YTJ6MDhzeWN4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/Nathan0088">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nathan-0088">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/avs.nathan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+# Nathaniel Alves Ribeiro
 
-<br/>
+**Full Stack Developer**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nathan-0088&style=for-the-badge&color=blue" />
-</div>
+Desenvolvendo aplicações web modernas utilizando React, TypeScript, Node.js e tecnologias cloud.
 
-<br/>
+<p>
+<a href="https://github.com/Nathan-0088">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<h1 align="center">Opa! 👋</h1>
+<a href="https://www.linkedin.com/in/Nathan0088">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
+<a href="https://instagram.com/avs.nathan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<p align="left">
-  Olá, eu sou <b>Nathaniel</b>, Desenvolvedor Full Stack Júnior.<br/><br/>
-  🔭 Trabalhando como: <b>Desenvolvedor Júnior</b><br/>
-  📚 Aprendendo: <b>Desenvolvimento Full Stack</b><br/>
-  ⚡ No tempo livre: <b>Programar e aprender coisas novas</b>
 </p>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Nathan-0088&style=for-the-badge&color=7aa2f7"/>
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-<!-- Front-end -->
-<h4 align="left">🎨 Front-end</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS"/>
 </div>
 
-<br/>
+---
 
-<!-- Back-end -->
-<h4 align="left">⚙️ Back-end</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-</div>
+## 👨‍💻 Sobre
 
-<br/>
+Sou desenvolvedor Full Stack apaixonado por criar aplicações modernas, performáticas e bem estruturadas.
 
-<!-- Banco de dados -->
-<h4 align="left">🗄️ Banco de Dados</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" title="Supabase"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
-</div>
+Tenho experiência principalmente com o ecossistema JavaScript/TypeScript, desenvolvendo projetos completos desde a interface até a integração com bancos de dados e autenticação.
 
-<br/>
+Atualmente meus estudos são voltados para arquitetura de software, desenvolvimento web moderno e novas tecnologias do ecossistema React.
 
-<!-- Ferramentas -->
-<h4 align="left">🔧 Ferramentas</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>
-</div>
+---
 
-<br/>
+## 🚀 Tecnologias
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,arduino" />
+</p>
+
+---
+
+## 📂 Projetos
+
+| Projeto           | Descrição                                                                                                   |
+| ----------------- | ----------------------------------------------------------------------------------------------------------- |
+| 🚗 **WebCarros**  | Plataforma para compra e venda de veículos com autenticação, upload de imagens e gerenciamento de anúncios. |
+| 📋 **Tarefas+**   | Gerenciador de tarefas com autenticação, compartilhamento público e sistema de comentários.                 |
+| 🎮 **DayliGames** | Plataforma para descobrir jogos, visualizar detalhes e salvar favoritos.                                    |
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nathan-0088&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathan-0088&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-<br/>
+---
 
-<h3 align="center">🚀 Sempre evoluindo!</h3>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-0088&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/Nathan-0088
+* LinkedIn: https://www.linkedin.com/in/Nathan0088
+* Instagram: https://instagram.com/avs.nathan
+
+---
+
+<div align="center">
+
+**Obrigado pela visita!**
+
+Se algum projeto chamou sua atenção, fique à vontade para explorá-lo ou entrar em contato.
+
+</div>
