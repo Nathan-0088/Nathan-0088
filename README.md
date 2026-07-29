@@ -67,16 +67,6 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 
 ---
 
-## 📂 Projetos
-
-| Projeto           | Descrição                                                                                                   |
-| ----------------- | ----------------------------------------------------------------------------------------------------------- |
-| 🚗 **WebCarros**  | Plataforma para compra e venda de veículos com autenticação, upload de imagens e gerenciamento de anúncios. |
-| 📋 **Tarefas+**   | Gerenciador de tarefas com autenticação, compartilhamento público e sistema de comentários.                 |
-| 🎮 **DayliGames** | Plataforma para descobrir jogos, visualizar detalhes e salvar favoritos.                                    |
-
----
-
 ## 📊 GitHub
 
 <div align="center">
