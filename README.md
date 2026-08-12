@@ -69,10 +69,10 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 
 ## 📊 GitHub
 
-<div align="center">
-  <img src="./profile/stats.svg" height="165" />
-  <img src="./profile/top-langs.svg" height="165" />
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
 
 ---
 
