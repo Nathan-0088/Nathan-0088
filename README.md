@@ -70,8 +70,8 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 ## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nathan-0088&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nathan-0088&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </div>
 
 ---
