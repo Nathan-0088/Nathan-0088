@@ -56,7 +56,7 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 ### Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,prisma" />
 </p>
 
 ### Ferramentas
@@ -70,8 +70,8 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 ## 📊 GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
+  <img src="./profile/stats.svg" width="420" />
+  <img src="./profile/top-langs.svg" width="320" />
 </p>
 
 ---
