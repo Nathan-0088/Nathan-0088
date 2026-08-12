@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Nathan-0088&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          options: username=Nathan-0088&layout=compact&langs_count=8&theme=github_dark&hide_border=true
           path: profile/top-langs.svg
 
       - name: Commit Stats
