@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Nathan-0088&show_icons=true&theme=tokyonight&hide_border=true
+          options: username=Nathan-0088&show_icons=true&theme=github_dark&hide_border=true
           path: profile/stats.svg
 
       - name: Generate Top Languages
