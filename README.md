@@ -1,29 +1,30 @@
 <div align="center">
 
-<img height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmc5aTFwZTljM2w5cnNlZnk3cjMyOGVscnBlcGN0YTJ6MDhzeWN4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"/>
-
 # Nathaniel Alves Ribeiro
+
+<img
+src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"
+height="190"
+alt="Cowboy Bebop"
+/>
 
 **Full Stack Developer**
 
 Desenvolvendo aplicações web modernas utilizando React, TypeScript, Node.js e tecnologias cloud.
 
 <p>
-<a href="https://github.com/Nathan-0088">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/Nathan0088">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/avs.nathan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/Nathan-0088">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/Nathan0088">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/avs.nathan">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Nathan-0088&style=for-the-badge&color=7aa2f7"/>
+<img src="https://komarev.com/ghpvc/?username=Nathan-0088&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -44,41 +45,35 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind&theme=dark" />
 </p>
 
 ### Back-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 ### Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,prisma&theme=dark" />
 </p>
 
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,arduino&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="./profile/stats.svg" width="420" />
-  <img src="./profile/top-langs.svg" width="320" />
-</p>
-
----
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-0088&theme=tokyonight"/>
+<img src="./profile/stats.svg" width="420" />
+<img src="./profile/top-langs.svg" width="320" />
 
 </div>
 
@@ -86,7 +81,21 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg" alt="Snake animation"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-0088&theme=github_dark"
+alt="GitHub Profile Details"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg"
+alt="Snake animation"
+/>
 
 </div>
 
@@ -94,9 +103,9 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 
 ## 📫 Contato
 
-* GitHub: https://github.com/Nathan-0088
-* LinkedIn: https://www.linkedin.com/in/Nathan0088
-* Instagram: https://instagram.com/avs.nathan
+* GitHub — [Nathan-0088](https://github.com/Nathan-0088)
+* LinkedIn — [Nathan0088](https://www.linkedin.com/in/Nathan0088)
+* Instagram — [@avs.nathan](https://instagram.com/avs.nathan)
 
 ---
 
