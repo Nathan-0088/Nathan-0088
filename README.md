@@ -82,17 +82,6 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathan-0088&theme=github_dark"
-alt="GitHub Profile Details"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-<img
 src="https://raw.githubusercontent.com/Nathan-0088/Nathan-0088/output/snake.svg"
 alt="Snake animation"
 />
