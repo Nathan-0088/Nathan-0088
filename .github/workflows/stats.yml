@@ -14,27 +14,35 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Download GitHub Stats
+      - name: Generate Stats
         run: |
           mkdir -p profile
 
           curl -L \
-            --fail \
             --retry 5 \
             --retry-delay 5 \
-            "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true" \
+            --retry-all-errors \
+            -A "Mozilla/5.0" \
+            "https://github-readme-stats.vercel.app/api?username=Nathan-0088&show_icons=true&hide_border=true" \
             -o profile/stats.svg
 
-      - name: Download Top Languages
+      - name: Generate Top Languages
         run: |
           curl -L \
-            --fail \
             --retry 5 \
             --retry-delay 5 \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true" \
+            --retry-all-errors \
+            -A "Mozilla/5.0" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-0088&layout=compact&langs_count=8&hide_border=true" \
             -o profile/top-langs.svg
+
+      - name: Verify files
+        run: |
+          file profile/stats.svg
+          file profile/top-langs.svg
+          ls -lh profile/
 
       - name: Commit Stats
         run: |
