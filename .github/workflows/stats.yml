@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Nathan-0088
+          options: username=Nathan-0088&theme=github_dark
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Nathan-0088&layout=compact&langs_count=8&hide_border=true
+          options: username=Nathan-0088&layout=compact&langs_count=8&hide_border=true&theme=github_dark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
