@@ -36,7 +36,7 @@ Sou desenvolvedor Full Stack apaixonado por criar aplicações modernas, perform
 
 Tenho experiência principalmente com o ecossistema JavaScript/TypeScript, desenvolvendo projetos completos desde a interface até a integração com bancos de dados e autenticação.
 
-Atualmente meus estudos são voltados para arquitetura de software, desenvolvimento web moderno e novas tecnologias do ecossistema React.
+Atualmente meus estudos são voltados para arquitetura de software, desenvolvimento web moderno e novas tecnologias de backend.
 
 ---
 
@@ -51,19 +51,19 @@ Atualmente meus estudos são voltados para arquitetura de software, desenvolvime
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,prisma&theme=dark" />
 </p>
 
 ### Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mongodb,firebase,&theme=dark" />
 </p>
 
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,python,linux,vscode,vercel,arduino&theme=dark" />
 </p>
 
 ---
